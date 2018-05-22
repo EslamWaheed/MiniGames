@@ -11,9 +11,9 @@
 4-Mohammed El-shawarby
 
 
-How to play:
+# How to play:
 
-First Game: [3 cards game]
+# First Game: [3 cards game]
 
 -you have to find the queen after swipping the 3 cards for several times
 
@@ -21,7 +21,7 @@ according to the selected level
 
 -the game has alot of levels, you can change the level according to your concentration  
 
-Second Game: [Find The Numbers]
+# Second Game: [Find The Numbers]
 
 How to play:
 
@@ -33,7 +33,7 @@ How to play:
 
 -You have 2 minutes for each image.
 
-Third Game [Kill Smile Emoji]
+# Third Game [Kill Smile Emoji]
 
 How to play:
 -Kill Smile Emoji and gain a lot of score, if you kill any Emoji you will lose live and score.
@@ -47,7 +47,7 @@ How to play:
 When your game over after you lose all your live you can start a new game.
 
 
-Fourth Game [XO Game]
+# Fourth Game [XO Game]
 
 How to play:
 The player who is playing "X" always goes first.
@@ -60,7 +60,7 @@ If a player is able to draw three of their Xs or three of their Os in a row, the
 
 If all nine squares are filled and neither player has three in a row, the game is a draw.
 
-Fifth Game [Hang Man]
+# Fifth Game [Hang Man]
 
 Hangman is a simple word guessing game. Players try to figure out an unknown word by guessing letters. If too many letters which do not
 
